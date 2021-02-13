@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication-docker-check", "WebApplication-docker-check\WebApplication-docker-check.csproj", "{BEF15C1C-43C0-47F1-AE61-821A9943C711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEF15C1C-43C0-47F1-AE61-821A9943C711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF15C1C-43C0-47F1-AE61-821A9943C711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF15C1C-43C0-47F1-AE61-821A9943C711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF15C1C-43C0-47F1-AE61-821A9943C711}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28FAEDA2-77D6-499D-9BC1-D95E157D0165}
+	EndGlobalSection
+EndGlobal
